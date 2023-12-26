@@ -346,6 +346,20 @@
           "https://journaldunet.fr"
         ]
       }
+    },
+    {
+        "primary": "https://zalo.me",
+        "contact": "andqt@vng.com.vn",
+        "associatedSites": [
+          "https://zingmp3.vn",
+          "https://baomoi.com",
+          "https://smoney.vn"
+        ],
+        "rationaleBySite": {
+          "https://zingmp3.vn": "Music Website owned by Zalo Group, VNG",
+          "https://baomoi.com": "News Website owned by Zalo Group, VNG",
+          "https://smoney.vn": "News Website owned by Zalo Group, VNG"
+        }
     }
   ]
 }
